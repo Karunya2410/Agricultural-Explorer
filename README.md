@@ -10,6 +10,11 @@ Agricultural Explorer is an interactive data visualization and analysis tool des
   - Line charts for time-series data.
   - Bar charts for production comparison across regions.
   - Heatmaps for visualizing crop distribution across states.
+- **Power BI Insights: Provides interactive dashboards and reports using Power BI, including:
+- Crop Selection Slicer: Allows users to filter insights based on crop type (Rice, Wheat, Maize, etc.).
+- Production vs. Area Cultivated Analysis: Scatter plots and trend analysis to evaluate yield efficiency.
+- Regional Production Comparison: Heatmaps and bar charts to compare crop production across different states.
+- Forecasting Dashboards: Uses statistical models to predict future crop yields and production trends.
 - **User-Friendly Interface**: Provides filtering options based on region, crop type, yield, and year. Implements interactive elements like dropdowns, sliders, and tooltips.
 
 ## Technology Stack
